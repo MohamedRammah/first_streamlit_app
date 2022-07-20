@@ -25,8 +25,6 @@ streamlit.dataframe(my_fruit_list)
 
 
 
-fruits_to_show = my_fruit_list.loc[fruits_selected]
-
 streamlit.data.frame(fruits_to_show)
 
 
