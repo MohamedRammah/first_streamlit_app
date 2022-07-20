@@ -25,7 +25,7 @@ streamlit.dataframe(my_fruit_list)
 
 
 
-streamlit.data.frame(fruits_to_show)
+
 
 
 
