@@ -25,14 +25,4 @@ streamlit.dataframe(my_fruit_list)
 
 
 
-
-
-
-
-
-
-
-
-
-
 import snowflake.connector
